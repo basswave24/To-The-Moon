@@ -2,6 +2,9 @@
 Name: Dan Andrei Pirlea  
 Student Number: C18444682  
 
+# Gameplay 
+https://www.youtube.com/watch?v=RV0hL28PBTg
+
 # Description
 This is a small game where you take control of a rocket and you try to reach the green platform on every level while dodging all the obstacles.   
 The levels get more and more intense as you progress. There are also game objects that react to music in the game. They get more and more trippy as the levels progress.  
@@ -13,7 +16,7 @@ D - Pivot right
 Spacebar - Thrust  
 
 # How to make it run
-Just press the ToTheMoon.exe file located in the game folder. It should work on all resolutions, although I have tested it on 1600x900.
+Download all the files in the "Game" folder and then press ToTheMoon.exe . It should work on all resolutions, although I have tested it on 1600x900.
 Alternatively, open project in Unity and just press play.
 Headphones are recommended to truly appreciate the music.
 
